@@ -1,6 +1,6 @@
-# Proxmox VM Automation with Terraform
+# Automatic Proxmox VM provisioning with Terraform
 
-A comprehensive Terraform repository for automating virtual machine provisioning and management in Proxmox Virtual Environment (PVE). This repository provides multiple approaches for VM deployment, from simple single-VM configurations to scalable multi-VM K3s cluster setups.
+A comprehensive Terraform repository for automating virtual machine provisioning and management in Proxmox Virtual Environment (PVE). This repository provides multiple approaches for VM deployment, from simple single-VM configurations to scalable multi-VM K3s cluster setups. You can learn more about Terraform in the [wiki](https://github.com/Benmeddour/terraform-proxmox-automatic-vm-provisioning/wiki).
 
 ## 🎯 Purpose
 
